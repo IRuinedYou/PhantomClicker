@@ -1,0 +1,38 @@
+# 👻 Phantom Clicker
+
+A premium autoclicker with macro scripting, click recording, and global hotkeys.
+
+## [⬇ Download Latest Version](https://github.com/IRuinedYou/PhantomClicker/releases/latest)
+
+---
+
+## Features
+
+- ⚡ Autoclicker with fixed, random, or custom pattern intervals
+- 🔴 Record & replay your clicks exactly
+- 📜 Macro scripting — write or export recordings into editable scripts
+- 🎯 Fixed position clicking with a screen picker
+- 🧠 Humanization mode so clicks don't look robotic
+- 🔥 Global hotkeys — fully customizable, works in any app
+- 🔇 Minimize to tray, runs in background
+- 📦 One installer, no .NET required, auto-updates built in
+
+## Requirements
+
+- Windows 10/11 (x64)
+- That's it — the installer handles everything
+
+## Safe & Clean
+
+- Built with .NET 8 + WPF — uses official Windows APIs, not sketchy injection methods
+- No obfuscation, no packed executables, no hidden processes
+- Fully open source — the code is right here, see for yourself
+- Windows Defender and antivirus won't flag it
+
+## Installation
+
+1. Download `PhantomClickerSetup.exe` from [Releases](https://github.com/IRuinedYou/PhantomClicker/releases/latest)
+2. Run the installer
+3. Launch from your desktop or Start Menu
+
+The app checks for updates automatically on launch, or you can check manually in Settings.
